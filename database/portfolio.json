@@ -161,55 +161,6 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "2015 – 2019",
-        "courseName": "Doctor of Philosophy (Ph.D.) in Computer Science",
-        "instituteName": "Indian Institute of Technology (IIT) Bombay",
-        "specializedIn": "Artificial Intelligence, Machine Learning",
-        "yearPassout": "",
-        "headline1": "Conducted research on deep learning models for Indian language processing.",
-        "headline2": "Published multiple research papers in IEEE, Springer, and Scopus-indexed journals.",
-        "cgpa": "9.8",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "4"
-      },
-      {
-        "timeline": "2013 – 2015",
-        "courseName": "Master of Technology (M.Tech.) in Computer Science",
-        "instituteName": "Indian Institute of Science (IISc) Bangalore",
-        "specializedIn": "Software Engineering, Data Science",
-        "yearPassout": "",
-        "headline1": "Focused on large-scale cloud computing solutions for Indian enterprises.",
-        "headline2": "Published a thesis on optimizing AI-driven healthcare solutions.",
-        "cgpa": "9.5",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "5"
-      },
-      {
-        "timeline": "2009 – 2013",
-        "courseName": "Bachelor of Technology (B.Tech.) in Computer Science",
-        "instituteName": "National Institute of Technology (NIT) Trichy",
-        "specializedIn": "Full-Stack Development, Database Management",
-        "yearPassout": "",
-        "headline1": "Developed an online examination system adopted by multiple universities.",
-        "headline2": "Represented India at the ACM ICPC World Finals.",
-        "cgpa": "9.2",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "6"
-      }
-    ]
+    "qualifications": []
   }
 }
