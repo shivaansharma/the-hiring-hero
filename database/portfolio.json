@@ -50,34 +50,54 @@
         "rating": 8
       },
       {
-        "id": "1740561061830",
-        "name": "Cloud Computing",
-        "rating": 7
-      },
-      {
-        "id": "1740561070225",
-        "name": "Research Methodologies",
-        "rating": 9
-      },
-      {
-        "id": "1740561079785",
-        "name": "Educational Technology",
-        "rating": 8
-      },
-      {
-        "id": "1740561088138",
-        "name": "AI in Education",
-        "rating": 8.5
-      },
-      {
-        "id": "1740561097802",
-        "name": "Digital Learning Platforms",
-        "rating": 9.5
-      },
-      {
         "id": "1740561105650",
         "name": "Technical Writing",
         "rating": 7.5
+      },
+      {
+        "id": "1743867302085",
+        "name": "nodeJs",
+        "rating": 8
+      },
+      {
+        "id": "1743867308802",
+        "name": "javaScript",
+        "rating": 8
+      },
+      {
+        "id": "1743867312442",
+        "name": "python",
+        "rating": 8
+      },
+      {
+        "id": "1743867316042",
+        "name": "reactJs",
+        "rating": 8
+      },
+      {
+        "id": "1743867320937",
+        "name": "nextJS",
+        "rating": 8
+      },
+      {
+        "id": "1743867326787",
+        "name": "expressJs",
+        "rating": 8
+      },
+      {
+        "id": "1743867329521",
+        "name": "cmake",
+        "rating": 8
+      },
+      {
+        "id": "1743867331368",
+        "name": "c",
+        "rating": 8
+      },
+      {
+        "id": "1743867334371",
+        "name": "c++",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
