@@ -23,7 +23,33 @@
   },
   "skillsInfo": {
     "displayName": "Specialization",
-    "skills": [],
+    "skills": [
+      {
+        "id": "1744122990000",
+        "name": "c++",
+        "rating": 8
+      },
+      {
+        "id": "1744122994230",
+        "name": "python",
+        "rating": 8
+      },
+      {
+        "id": "1744122997406",
+        "name": "js",
+        "rating": 8
+      },
+      {
+        "id": "1744123004619",
+        "name": "nextjs",
+        "rating": 8
+      },
+      {
+        "id": "1744123010809",
+        "name": "expressjs",
+        "rating": 8
+      }
+    ],
     "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
