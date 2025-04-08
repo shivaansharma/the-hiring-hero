@@ -48,6 +48,26 @@
         "id": "1744123010809",
         "name": "expressjs",
         "rating": 8
+      },
+      {
+        "id": "1744123471597",
+        "name": "tensor flow",
+        "rating": 8
+      },
+      {
+        "id": "1744123477567",
+        "name": "sikit learn",
+        "rating": 8
+      },
+      {
+        "id": "1744123488538",
+        "name": "typescript",
+        "rating": 8
+      },
+      {
+        "id": "1744123493342",
+        "name": "javascript",
+        "rating": 8
       }
     ],
     "skillAnimationType": "moving-animation"
