@@ -23,78 +23,7 @@
   },
   "skillsInfo": {
     "displayName": "Specialization",
-    "skills": [
-      {
-        "id": "1740561022085",
-        "name": "Artificial Intelligence",
-        "rating": 8
-      },
-      {
-        "id": "1740561032423",
-        "name": "Data Science",
-        "rating": 8
-      },
-      {
-        "id": "1740561039835",
-        "name": "TensorFlow",
-        "rating": 7
-      },
-      {
-        "id": "1740561047940",
-        "name": "Neural Networks",
-        "rating": 8.5
-      },
-      {
-        "id": "1740561105650",
-        "name": "Technical Writing",
-        "rating": 7.5
-      },
-      {
-        "id": "1743867302085",
-        "name": "nodeJs",
-        "rating": 8
-      },
-      {
-        "id": "1743867308802",
-        "name": "javaScript",
-        "rating": 8
-      },
-      {
-        "id": "1743867312442",
-        "name": "python",
-        "rating": 8
-      },
-      {
-        "id": "1743867316042",
-        "name": "reactJs",
-        "rating": 8
-      },
-      {
-        "id": "1743867320937",
-        "name": "nextJS",
-        "rating": 8
-      },
-      {
-        "id": "1743867326787",
-        "name": "expressJs",
-        "rating": 8
-      },
-      {
-        "id": "1743867329521",
-        "name": "cmake",
-        "rating": 8
-      },
-      {
-        "id": "1743867331368",
-        "name": "c",
-        "rating": 8
-      },
-      {
-        "id": "1743867334371",
-        "name": "c++",
-        "rating": 8
-      }
-    ],
+    "skills": [],
     "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
